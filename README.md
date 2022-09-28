@@ -1,8 +1,8 @@
-# e-Commerce
+# Furniture Store
 
-![e-Commerce](https://)
+![Furniture Store](https://)
 
-## Visit site [here](https://arturohdzg.github.io/e-Commerce/)
+## Visit site [here](https://arturohdzg.github.io/FurnitureStore/)
 
 Creation of my first demo project of static Website using Bootstrap 5<br />
 I'll document a detailed project progress from start to end.
