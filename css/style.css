@@ -1,0 +1,21 @@
+/* Fonts & Colors */
+:root {
+  /* Fonts */
+  --playfair: 'Playfair Display', serif;
+  --raleway: 'Raleway', sans-serif;
+  /* 10px = 1rem */
+  font-size: 10px;
+}
+
+h1, h2, h3 {
+  font-family: var(--playfair);
+}
+
+h1 {
+  font-size: 3.8rem;
+}
+
+/* Media Queries */
+@media (min-width: 768px) {
+  h1 { font-size: 5rem; }
+}
