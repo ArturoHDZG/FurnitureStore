@@ -42,6 +42,15 @@ h3 {
   min-height: 25rem;
 }
 
+.category img {
+  transition-property: transform;
+  transition-duration: 300ms;
+}
+
+.category img:hover {
+  transform: scale(1.2);
+}
+
 /* Media Queries */
 @media (min-width: 768px) {
   h1 { font-size: 5rem; }
