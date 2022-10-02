@@ -47,8 +47,8 @@ h3 {
   transition-duration: 300ms;
 }
 
-.category img:hover {
-  transform: scale(1.2);
+.m_gallery li:not(:last-of-type) {
+  margin-bottom: 1rem;
 }
 
 /* Media Queries */
