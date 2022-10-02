@@ -8,6 +8,14 @@ Creation of my first demo project of static Website using Bootstrap 5<br>
 I'll document a detailed project progress from start to end.
 <hr>
 
+### Project Start (02/10/2022)
+
+* _about.html_ & _store.html_ Added.
+* _CSS_ & _Bootstrap_ minor styles.
+* Responsive minor fixes.
+
+See project progress [here](https://github.com/ArturoHDZG/FurnitureStore/releases/tag/v0.4)
+
 ### Project Start (01/10/2022)
 
 * _index.html_ Complete.
