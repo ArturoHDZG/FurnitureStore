@@ -11,10 +11,11 @@ I'll document a detailed project progress from start to end.
 ### Project Start (02/10/2022)
 
 * _about.html_ & _store.html_ Added.
+* _blog.html_ section complete.
 * _CSS_ & _Bootstrap_ minor styles.
 * Responsive minor fixes.
 
-See project progress [here](https://github.com/ArturoHDZG/FurnitureStore/releases/tag/v0.4)
+See project progress [here](https://github.com/ArturoHDZG/FurnitureStore/releases/tag/v0.6)
 
 ### Project Start (01/10/2022)
 
