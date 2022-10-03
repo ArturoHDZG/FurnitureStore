@@ -1,6 +1,6 @@
 # Furniture Store
 
-![Furniture Store](https://user-images.githubusercontent.com/110303654/192773344-c04babbc-71e6-4c8f-8a01-329a95024a44.png)
+![Furniture Store](https://user-images.githubusercontent.com/110303654/193496367-17725649-594a-4e0e-a245-cff7aa8d5e18.jpg)
 
 ## Visit site [here](https://arturohdzg.github.io/FurnitureStore/)
 
