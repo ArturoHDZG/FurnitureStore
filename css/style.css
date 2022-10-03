@@ -51,6 +51,22 @@ h3 {
   margin-bottom: 1rem;
 }
 
+.form-label {
+  font-size: 1.8rem;
+}
+
+.form-control {
+  font-size: 1.6rem;
+  padding: 1rem;
+}
+
+.size_btn {
+  height: 1.5rem;
+  width: 1.5rem;
+  margin-left: 1rem;
+  vertical-align: text-bottom;
+}
+
 /* Media Queries */
 @media (min-width: 768px) {
   h1 { font-size: 5rem; }
